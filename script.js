@@ -30,3 +30,5 @@ if ('IntersectionObserver' in window) {
 }
 
 document.querySelector('#year').textContent = new Date().getFullYear();
+
+console.log("Helo and welcome in console. Why are you even here?");
